@@ -26,3 +26,16 @@ body {
 	padding: 1em;
 	max-width: 50em
 }
+
+.headline {
+	text-align: center;
+	text-decoration: underline;
+	text-underline-offset: 3px;
+}
+
+.smallheadline {
+	text-align: left;
+	text-decoration: underline;
+	text-underline-offset: 1.5px;
+	font-style: italic;
+}
