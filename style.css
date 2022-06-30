@@ -22,7 +22,7 @@
 body {
 	font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
 	line-height: 1.5;
-	margin: 15%;
+	margin: 1em auto;
 	margin-top: 0.5%;
 	padding: 1em;
 	max-width: 50em
